@@ -1,7 +1,7 @@
 import * as React from "react";
 import styled from "styled-components";
 
-const StyledButton = styled.div`
+const StyledButton = styled.button`
   color: green;
 `;
 export type ButtonProps = {
