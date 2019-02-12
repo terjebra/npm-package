@@ -2,3 +2,4 @@
 
 - yarn build
 - yarn test
+- yarn storybook
